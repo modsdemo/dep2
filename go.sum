@@ -1,0 +1,6 @@
+github.com/modsdemo/dep5 v1.0.5 h1:yB/wGM2ZuRAYdCRxAgzos1UawafJZJcogJVWzMcv5xY=
+github.com/modsdemo/dep5 v1.0.5/go.mod h1:UdzPPrffBrKuAs3g9Q6Kk62culaNdGCSPN868aD6mzM=
+github.com/modsdemo/dep7 v1.0.7 h1:7Few0XouxtLkTaiCK2c8qfU35x7QUBKXDYvVdpNJ3gs=
+github.com/modsdemo/dep7 v1.0.7/go.mod h1:OZTIqycb/naoExjXcmw4uNymZby1ty5Y8fmVwU82KbY=
+github.com/modsdemo/leafrepo v1.0.3 h1:gxJ5LsWICeR979Erp/D6nW2iCjbE4gs7podiGpyjzqs=
+github.com/modsdemo/leafrepo v1.0.3/go.mod h1:8gPQiZdyU8IC486bUDnZjQfr90a8tBZjdbMpFNTH5fw=
